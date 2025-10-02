@@ -3,4 +3,4 @@ Game Development Repo MA
 
 
 
-![Fantasy foto](Fantasy.png "Mijn fantasy opdracht")
+![Fantasy foto](fantasy.png "Mijn fantasy opdracht")
